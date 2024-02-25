@@ -1,5 +1,5 @@
 <h1 align="center">Hi, guys! 👋</h1>
-
+[![Profile Views](https://komarev.com/ghpvc/?username=truong29102002)](https://github.com/truong29102002)
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
