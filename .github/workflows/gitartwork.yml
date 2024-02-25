@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: truongnx-tdt/gitartwork@v1
+       - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: truongnx-tdt
+            user_name: jasineri
             # Text on contribution graph 
             text: TRUONG
-       - uses: truongnx-tdt/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
