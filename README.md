@@ -11,7 +11,7 @@
 </div>
 
 - 👋 Hi, I’m Truong DT
-- 👀 I’m currently .NET Developer And Angular
+- 👀 I’m currently .NET, Angular Developer 
 - 🌱 I am currently studying at HaUI
 - 📫 My Contact: [Xuân Trường](https://www.facebook.com/truongnxtdt)
 - Happy coding! 😊
