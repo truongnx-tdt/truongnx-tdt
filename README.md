@@ -11,7 +11,7 @@
 </div>
 
 - 👋 Hi, I’m Truong DT
-- 👀 I’m currently learning Java Web
+- 👀 I’m currently .NET Developer And Angular
 - 🌱 I am currently studying at HaUI
 - 📫 My Contact: [Xuân Trường](https://www.facebook.com/truongnxtdt)
 - Happy coding! 😊
