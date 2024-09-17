@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m Truong DT
 - 👀 I’m currently .NET, Angular Developer 
-- 🌱 I am currently studying at HaUI
+- 🌱 I graduated from HaUI with a bachelor's degree.
 - 📫 My Contact: [Xuân Trường](https://www.facebook.com/truongnxtdt)
 - Happy coding! 😊
 
