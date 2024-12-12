@@ -11,8 +11,8 @@
 </div>
 
 - 👋 Hi, I’m Truong DT
-- 👀 I’m currently .NET, Angular Developer 
-- 🌱 I graduated from HaUI with a bachelor's degree.
+- 👀 I’m becoming a Full-stack Web Developer - .NET API - Angular - ReactJS
+- 🌱 I graduated from HaUI with a bachelor's degree. GPA: 3.19
 - 📫 My Contact: [Xuân Trường](https://www.facebook.com/truongnxtdt)
 - Happy coding! 😊
 
