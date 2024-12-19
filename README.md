@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Truong+Nguyen;Fullstack+Developer+i+%F0%9F%91%8B&center=true&size=32">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Truong+Nguyen;+Fullstack+Developer+%F0%9F%91%8B&center=true&size=32">
   </a>
 </h1>
 
@@ -10,7 +10,7 @@
   </h2>
 </div>
 
-- 👋 Hi, I’m Truong DT
+- 👋 Hi, I’m Truong
 - 👀 I’m becoming a Full-stack Web Developer - SQL - .NET API - Angular - ReactJS
 - 🌱 I graduated from HaUI with a bachelor's degree. GPA: 3.18
 - 📫 My Contact: [Xuân Trường](https://www.facebook.com/truongnxtdt)
