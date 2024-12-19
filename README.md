@@ -1,18 +1,18 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nguyễn+Xuân+Trường;Truong+Dep+Trai+%F0%9F%91%8B&center=true&size=32">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Truong+Nguyen;Fullstack+Developer+i+%F0%9F%91%8B&center=true&size=32">
   </a>
 </h1>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=truongnx-tdt)](https://github.com/truongnx-tdt)
 <div style="text-align: center">
-  <h2> <img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"</img> My name is <b>Nguyễn Xuân Trường</b>
+  <h2> <img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"</img> My name is <b>Truong Nguyen</b>
   </h2>
 </div>
 
 - 👋 Hi, I’m Truong DT
 - 👀 I’m becoming a Full-stack Web Developer - SQL - .NET API - Angular - ReactJS
-- 🌱 I graduated from HaUI with a bachelor's degree. GPA: 3.19
+- 🌱 I graduated from HaUI with a bachelor's degree. GPA: 3.18
 - 📫 My Contact: [Xuân Trường](https://www.facebook.com/truongnxtdt)
 - Happy coding! 😊
 
