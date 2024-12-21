@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m Truong
 - 👀 I’m becoming a Full-stack Web Developer - SQL - .NET API - Angular - ReactJS
-- 🌱 I graduated from HaUI with a bachelor's degree. GPA: 3.18
+- 🌱 I graduated from HaUI with a bachelor's degree. 
 - 📫 My Contact: [Xuân Trường](https://www.facebook.com/truongnxtdt)
 - Happy coding! 😊
 
