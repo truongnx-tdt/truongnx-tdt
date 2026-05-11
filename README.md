@@ -11,7 +11,7 @@
 </div>
 
 - 👋 Hi, I’m Truong
-- 👀 I’m becoming a Full-stack Web Developer - SQL - .NET API - Angular - ReactJS
+- 👀 I’m a Full-stack Developer
 - 🌱 I graduated from HaUI with a bachelor's degree. 
 - 📫 My Contact: [Xuân Trường](https://www.facebook.com/profile.php?id=61559000677961)
 - Happy coding! 😊
